@@ -13,10 +13,5 @@
 
 ---
 
-### 📡 Connect With Me  
-📩 [Email](mailto:your.email@example.com) | 🔗 [LinkedIn/Twitter: @YourHandle]  
-
----
-
 ### 🎭 Fun Fact  
 I see **code** as art and **apps** as experiences.
